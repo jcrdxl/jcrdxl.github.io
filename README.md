@@ -1,2 +1,0 @@
-# jcrdxl.github.io
-hello
